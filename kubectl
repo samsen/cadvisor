@@ -1,1 +1,1 @@
-FROM
+FROM registry.gitlab.com/gitlab-org/build/cng/kubectl:v16.7.0
