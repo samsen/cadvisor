@@ -1,0 +1,1 @@
+FROM registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v16.7.0
