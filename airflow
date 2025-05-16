@@ -1,1 +1,1 @@
-FROM docker.io/airflow:3.0.1
+FROM docker.io/apache/airflow:3.0.1
