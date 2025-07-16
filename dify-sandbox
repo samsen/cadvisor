@@ -1,0 +1,1 @@
+FROM docker.io/langgenius/dify-sandbox:0.2.12
