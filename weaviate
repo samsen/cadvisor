@@ -1,1 +1,1 @@
-FROM ghcr.io/semitechnologies/weaviate:1.19.0
+FROM cr.weaviate.io/semitechnologies/weaviate:1.19.0
