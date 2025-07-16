@@ -1,0 +1,1 @@
+FROM docker.io/semitechnologies/weaviate:1.19.0
