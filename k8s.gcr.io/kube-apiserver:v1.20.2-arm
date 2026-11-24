@@ -1,1 +1,0 @@
-FROM k8s.gcr.io/kube-apiserver:v1.20.2@sha256:153d500171c5b3097532c122ca11101336933ce01afab566c29ef086871cff4e
